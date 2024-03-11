@@ -1,3 +1,2 @@
-# CV-practice
-This is a repository for practicing with NumPy ecc.. for the AI-LAB : Computer vision and NLP course at Sapienza University of Rome.
-more to add in the future
+# AI-CV practice
+This is a repository with a wide set of exercises and practice "problems" for my Computer Vision classes, using Numpy, OpenCV, matplotlib ecc..

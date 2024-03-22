@@ -63,7 +63,7 @@ cv2.waitKey(0)
 
 #3 channels
 img5 = cv2.imread('/home/leyla/Pictures/kuromicon.jpeg')
-(b, g, r) = cv2.split(img)
+(b, g, r) = cv2.split(img5)
 img_copy = cv2.merge((r, g, b))
 
 #cv2.imshow('Red Channel;', r)
@@ -81,7 +81,7 @@ cv2.waitKey(0)
 
 #Image Processing
 imgpr = cv2.imread('/home/leyla/AI-CVpractice/kuromicon.png')
-(r, g, b) = cv2.split(imgpr)
+(r, g, b) = cv2.split(img)
 
 #cv2.imshow("red channel", r) #in verità è la blu channel
 

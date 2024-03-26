@@ -14,4 +14,3 @@ for i, col in enumerate(color):
 
 plt.plot(hist)
 plt.show()
-

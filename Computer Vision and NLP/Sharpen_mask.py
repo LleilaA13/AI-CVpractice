@@ -13,3 +13,4 @@ my_kernel = np.array(
 sharp = cv2.filter2D(img, -1, my_kernel)
 cv2.imshow('output', sharp)
 cv2.waitKey(0)
+cv2.destroyAllWindows() 
